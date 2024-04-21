@@ -1,0 +1,38 @@
+.service{
+	background-color:red;
+	height: 60%;
+	width: 100%;
+	column-gap: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.card-item{
+	height: 500px;
+	width: 200px;
+	background-color: blue;
+
+}.nav{
+	background-color: green;
+	height: 200px;
+	width: 1000px;
+}
+.logo{
+	background-color: yellow;
+	height: 20px;
+	width: 10px;
+}
+.nav-item{
+	background-color: white;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	flex-direction: wrap;
+}
+.nav.nav-item{
+	color: white;
+}
+
+.nav.nav-item ul{
+      
+}
